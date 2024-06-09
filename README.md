@@ -4,6 +4,10 @@ Hammal 是运行于 cloudflare workers 上的 Docker 镜像加速工具，用于
 
 ### 食用方式
 
+#### 一键部署：
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/QinYangWang/hammal)
+
+#### 手动部署：
 首先安装 wrangler 命令行工具 https://developers.cloudflare.com/workers/cli-wrangler/install-update
 
 ```
